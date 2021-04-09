@@ -1,0 +1,10 @@
+ Le volume dans le lecteur C s'appelle Windows
+ Le num‚ro de s‚rie du volume est 82FF-1F88
+
+ R‚pertoire de C:\Users\nt\mesdepots\mondepotgithub
+
+09-04-21  15:18    <DIR>          .
+09-04-21  15:18    <DIR>          ..
+09-04-21  15:18                 0 listing.txt
+               1 fichier(s)                0 octets
+               2 R‚p(s)   8.081.805.312 octets libres
